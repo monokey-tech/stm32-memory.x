@@ -1,2 +1,1 @@
-# stm32-memory.x
-memory.x files for very specific STM32 MCUs
+# STM32 memory.x files
